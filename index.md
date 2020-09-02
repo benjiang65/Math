@@ -1,10 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Math World
 
 You can use the [editor on GitHub](https://github.com/benjiang65/testvsc2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+- register an account 
+- set the landing page 
+- test it
+
+1. register 
+2. set the landing page
+3. test
+
+# **start**
+_start_
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
